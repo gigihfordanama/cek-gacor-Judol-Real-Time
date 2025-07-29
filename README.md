@@ -1,4 +1,5 @@
 Program ini online pada alamat https://ejurnal.unila.ac.id
+Github ada di sini https://github.com/gigihfordanama/cek-gacor-Judol-Real-Time
 
 Yang terjadi pada program ini;
 1. Shell script dibuat utk memantau file index.php pada seluruh user directory  public_html
