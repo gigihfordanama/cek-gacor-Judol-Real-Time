@@ -1,0 +1,122 @@
+Hasil Pengecekan index.php Semua Domain
+=======================================
+Domain : ejurnal.unila.ac.id
+Status : OK
+---------------------------
+Domain : ft-sipil.unila.ac.id
+Status : OK
+---------------------------
+Domain : iicis.fisip.unila.ac.id
+Status : OK
+---------------------------
+Domain : administrativa.fisip.unila.ac.id
+Status : OK
+---------------------------
+Domain : jaisi.eng.unila.ac.id
+Status : OK
+---------------------------
+Domain : jassp.lppm.unila.ac.id
+Status : OK
+---------------------------
+Domain : jesr.eng.unila.ac.id
+Status : OK
+---------------------------
+Domain : jge.eng.unila.ac.id
+Status : OK
+---------------------------
+Domain : jgsi.fisip.unila.ac.id
+Status : OK
+---------------------------
+Domain : jhii.fisip.unila.ac.id
+Status : OK
+---------------------------
+Domain : jkb.fisip.unila.ac.id
+Status : OK
+---------------------------
+Domain : josst.lppm.unila.ac.id
+Status : OK
+---------------------------
+Domain : jpb.fisip.unila.ac.id
+Status : OK
+---------------------------
+Domain : jpi.eng.unila.ac.id
+Status : OK
+---------------------------
+Domain : jsem.fp.unila.ac.id
+Status : OK
+---------------------------
+Domain : jss.lppm.unila.ac.id
+Status : OK
+---------------------------
+Domain : jtur.lppm.unila.ac.id
+Status : OK
+---------------------------
+Domain : jurnaladministratio.fisip.unila.ac.id
+Status : OK
+---------------------------
+Domain : lije.eng.unila.ac.id
+Status : OK
+---------------------------
+Domain : rekayasa.ft-sipil.unila.ac.id
+Status : OK
+---------------------------
+Domain : sinergi.lppm.unila.ac.id
+Status : OK
+---------------------------
+Domain : sumbangsih.lppm.unila.ac.id
+Status : OK
+---------------------------
+Domain : tabikpun.fmipa.unila.ac.id
+Status : OK
+---------------------------
+Domain : komunikasi.fisip.unila.ac.id
+Status : OK
+---------------------------
+Domain : jurnalnengahnyappur.fisip.unila.ac.id
+Status : OK
+---------------------------
+Domain : jurnalsociologie.fisip.unila.ac.id
+Status : OK
+---------------------------
+Domain : glocal.fisip.unila.ac.id
+Status : OK
+---------------------------
+Domain : insist.unila.ac.id
+Status : OK
+---------------------------
+Domain : jevief.fisip.unila.ac.id
+Status : OK
+---------------------------
+Domain : jrl.eng.unila.ac.id
+Status : OK
+---------------------------
+Domain : jurnalmitrawarga.fisip.unila.ac.id
+Status : OK
+---------------------------
+Domain : nemuinyimah.eng.unila.ac.id
+Status : OK
+---------------------------
+Domain : electrician.unila.ac.id
+Status : OK
+---------------------------
+Domain : jurnalragom.fisip.unila.ac.id
+Status : OK
+---------------------------
+Domain : senapati.eng.unila.ac.id
+Status : OK
+---------------------------
+Domain : sinta.eng.unila.ac.id
+Status : OK
+---------------------------
+Domain : snip.eng.unila.ac.id
+Status : OK
+---------------------------
+Domain : jurnalsosiologi.fisip.unila.ac.id
+Status : OK
+---------------------------
+Domain : lppm.unila.ac.id
+Status : OK
+---------------------------
+Domain : ulicoste.unila.ac.id
+Status : OK
+---------------------------
