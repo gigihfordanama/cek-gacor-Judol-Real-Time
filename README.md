@@ -1,4 +1,4 @@
-Program ini online pada alamat https://ejurnal.unila.ac.id
+
 Github ada di sini https://github.com/gigihfordanama/cek-gacor-Judol-Real-Time
 
 Yang terjadi pada program ini;
